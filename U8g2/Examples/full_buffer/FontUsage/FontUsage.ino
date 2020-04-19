@@ -1,10 +1,4 @@
 /*
-
-  FontUsage.ino
-  
-  How to overwrite previous text with a new text.
-  How to avoid the buffer clear command.
-
   Universal 8bit Graphics Library (https://github.com/olikraus/u8g2/)
 
   Copyright (c) 2016, olikraus@gmail.com
