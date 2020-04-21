@@ -2738,7 +2738,7 @@ class U8X8_HX1230_96X68_3W_SW_SPI : public U8X8 {
 
 
 class monoView_u8x8 : public U8X8 {
-  public: monoView_u8x8( ) : U8X8() {
+  public: monoView_u8x8( uint8_t m) : U8X8() {
 	  uint8_t clock=15;
 	  uint8_t data=14;
 	  uint8_t cs=7;
