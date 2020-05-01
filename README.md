@@ -1,4 +1,8 @@
-
+monoView library is a fork of standard u8g2 library.
+The origianl library and documentation can be found here.
+https://github.com/olikraus/u8g2
+Full reference can be found here:
+https://github.com/olikraus/u8g2/wiki/u8g2reference
 ## What you get in the package
 Typically you will receive a monoView and a programmer.
 ![](Images/Inside%20the%20package.jpg)
