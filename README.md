@@ -31,6 +31,10 @@ Download the "U8g2" folder and copy it to the library folder of arduino.
 ![](Images/install_lib.png)
 The folder should look like this in the library folder.
 ## Select the board in Arduino
+![](Images/board_select.png)
+The monoView uses "Arduino Pro or Pro Mini" bootlaoder.
+Select Atmega328P (3.3V, 8Mhz) as the processor.
+Select the serial port and you are good to go.
 ## Flash the examples
 ## Buttons, SD card, Power Switch, SD card holder and the battery connector
 ## Clock and Watch Board
