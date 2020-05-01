@@ -11,10 +11,12 @@ If you see the animation then congratulation! Your monoView is working!
 ## Connections
 Make sure you connect the programmer and the monoView properly. Check twice before powering up.
 ![](Images/Programmer_connection.png)
+
+
 If you connect the TX or RX pin to ground then the chip will be damaged.
 ## Install the library
 Download the "U8g2" folder and copy it to the library folder of arduino.
-![](ages/install_lib.png)
+![](Images/install_lib.png)
 The folder should look like this in the library folder.
 ## Select the board in Arduino# Flash the examples
 ## Buttons, SD card, Power Switch, SD card holder and the battery connector
