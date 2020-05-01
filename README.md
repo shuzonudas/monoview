@@ -1,8 +1,15 @@
 monoView library is a fork of standard u8g2 library.
+
 The origianl library and documentation can be found here.
 https://github.com/olikraus/u8g2
+
 Full reference can be found here:
 https://github.com/olikraus/u8g2/wiki/u8g2reference
+
+List of all available fonts can be found here:
+https://github.com/olikraus/u8g2/wiki/fntlistall
+
+
 ## What you get in the package
 Typically you will receive a monoView and a programmer.
 ![](Images/Inside%20the%20package.jpg)
@@ -23,7 +30,8 @@ If you connect the TX or RX pin to ground then the chip will be damaged.
 Download the "U8g2" folder and copy it to the library folder of arduino.
 ![](Images/install_lib.png)
 The folder should look like this in the library folder.
-## Select the board in Arduino# Flash the examples
+## Select the board in Arduino
+## Flash the examples
 ## Buttons, SD card, Power Switch, SD card holder and the battery connector
 ## Clock and Watch Board
 ## Full size programmer
