@@ -36,6 +36,7 @@ The monoView uses "Arduino Pro or Pro Mini" bootlaoder.
 Select Atmega328P (3.3V, 8Mhz) as the processor.
 Select the serial port and you are good to go.
 ## Flash the examples
-## Buttons, SD card, Power Switch, SD card holder and the battery connector
-## Clock and Watch Board
-## Full size programmer
+Open the Arduino IDE. Goto File> Examples > U8g2> Examples>
+Select your preferred example, compile and upload to the board.
+![](Images/examples.png)
+
